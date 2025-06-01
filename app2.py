@@ -123,7 +123,7 @@ if page == "Home":
     st.title("Prediction Dashboard")
     st.write("Explore predictions and visualizations for motor cars, battery electric vehicles, and AQI classification")
     #st.markdown("[Visit Front-End Website](../frontend/index.html)")
-    st.markdown("Ecomove is your gateway to understanding the environmental footprint of the vehicles that power our world. By harnessing real-time data analysis, Ecomove compares the impact of Petrol, Diesel, and Electric vehicles through key pollutants like CO₂, NOx, and more. From buses to motorcycles, our interactive platform reveals which fuel types harm our planet most and forecasts future trends to guide sustainable choices. Explore stunning visualizations, dive into predictive insights, and join us in steering toward a greener future with Ecomove! \n [Visit Front-End Website](../frontend/index.html)")
+    st.markdown("Ecomove is your gateway to understanding the environmental footprint of the vehicles that power our world. By harnessing real-time data analysis, Ecomove compares the impact of Petrol, Diesel, and Electric vehicles through key pollutants like CO₂, NOx, and more. From buses to motorcycles, our interactive platform reveals which fuel types harm our planet most and forecasts future trends to guide sustainable choices. Explore stunning visualizations, dive into predictive insights, and join us in steering toward a greener future with Ecomove!")
     st.write("Use the sidebar to navigate to different sections.")
 
 
